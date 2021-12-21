@@ -5,6 +5,11 @@
 #include <string.h>
 
 
+/*
+* 작성자 : 배유진
+* 프로젝트 이름 : OSPF 프로그램
+*/
+
 int main(void)
 {
 
